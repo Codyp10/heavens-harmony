@@ -67,18 +67,6 @@ export const MEMBERS: Member[] = [
     role: "Soprano", 
     image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/micayla.png" 
   },
-  { 
-    id: 6, 
-    name: "Bethany", 
-    role: "Soprano", 
-    image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/bethany.png" 
-  },
-  { 
-    id: 7, 
-    name: "Veronica", 
-    role: "Soprano", 
-    image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/veronica.png" 
-  },
 
   // Altos
   { 
@@ -86,12 +74,6 @@ export const MEMBERS: Member[] = [
     name: "Angelina", 
     role: "Alto", 
     image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/angelina.png" 
-  },
-  { 
-    id: 11, 
-    name: "Hannah", 
-    role: "Alto", 
-    image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/hannah.png" 
   },
   { 
     id: 12, 
