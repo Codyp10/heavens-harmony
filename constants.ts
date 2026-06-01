@@ -37,7 +37,13 @@ export const MEMBERS: Member[] = [
     role: "President / Tenor", 
     image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/mario.png" 
   },
-  
+  { 
+    id: 1, 
+    name: "Cody", 
+    role: "Bass", 
+    image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/cody.png" 
+  },
+
   // Tenors
   { 
     id: 3, 
@@ -47,12 +53,6 @@ export const MEMBERS: Member[] = [
   },
 
   // Basses
-  { 
-    id: 1, 
-    name: "Cody", 
-    role: "Bass", 
-    image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/cody.png" 
-  },
   { 
     id: 4, 
     name: "Caleb", 
