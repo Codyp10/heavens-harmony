@@ -51,6 +51,12 @@ export const MEMBERS: Member[] = [
     role: "Tenor", 
     image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/calebf.png" 
   },
+  { 
+    id: 13, 
+    name: "Zyon", 
+    role: "Tenor", 
+    image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/Zyon.png" 
+  },
 
   // Basses
   { 
@@ -58,6 +64,14 @@ export const MEMBERS: Member[] = [
     name: "Caleb", 
     role: "Bass", 
     image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/calebh.png" 
+  },
+
+  // Pianist
+  { 
+    id: 14, 
+    name: "Nathanael", 
+    role: "Pianist", 
+    image: "https://ik.imagekit.io/gnubc5ud3/HH%20-%20Headshots/Nathanael.png" 
   },
 
   // Sopranos
